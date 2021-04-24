@@ -1,1 +1,1 @@
-lịch sư branch A là: commit1-commit2-commit3-commit4
+lịch sử branch A là: commit1-commit2-commit3-commit4
