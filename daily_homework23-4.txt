@@ -1,0 +1,10 @@
+đề :phân biệt sự giống và khác nhau giữa "git checkout" và "git switch"
+*giống nhau:đều dùng để chuyển nhánh và tạo nhánh mới
+*khác :+git checkout có thể phục hồi file trong thư mục từ một commit trước
+       + công thức dùng để tạo nhánh mới: 
+			git switch -c <tên nhánh>
+			it checkout -b <tên nhánh>
+       + công thức dùng để chuyển sang nhánh khác :
+			git switch <tên nhánh>
+			git checkout <tên nhánh>
+
